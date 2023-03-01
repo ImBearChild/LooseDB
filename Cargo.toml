@@ -1,0 +1,14 @@
+[package]
+name = "loosedb"
+version = "0.1.0"
+edition = "2021"
+authors = ["Nianqing Yao <imbearchild@outlook.com>"]
+license = "LGPL-2.1-only"
+description = "A simple key-value database written in pure rust for cloud storage."
+documentation = "https://docs.rs/loosedb"
+homepage = "https://github.com/ImBearChild/loosedb"
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
