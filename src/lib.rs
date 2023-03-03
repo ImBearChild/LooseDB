@@ -3,7 +3,10 @@ use thiserror::Error;
 
 pub mod db;
 pub mod ivec;
+pub mod bincode;
 pub use ivec::IVec;
+
+pub mod tree;
 
 #[derive(Error, Debug)]
 pub enum Error {

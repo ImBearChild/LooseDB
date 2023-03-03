@@ -3,7 +3,6 @@ This file contains content from [sled](https://github.com/spacejam/sled),
 licensed under Apache-2.0 and MIT.
  */
 
-
 use std::{
     convert::TryFrom,
     fmt,
